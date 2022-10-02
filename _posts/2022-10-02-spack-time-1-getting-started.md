@@ -15,7 +15,7 @@ So here I am, documenting how I intend to set everything up correctly, and my fi
 ## Spack (and Singularity)
 
 > Spack is a package manager for supercomputers, Linux, and macOS. It makes installing scientific software easy.
-
+>
 > from: [Spack](https://spack.io/)
 
 What? "Makes installing scientific software easy?" Sign me right up!
